@@ -37,7 +37,7 @@ include:
   - _pages
   
   
-#homepage config
+#FE homepage config
 logo: "/assets/images/dxdonewell.png"
 masthead_title: "Dx Done Well" 
 
