@@ -39,6 +39,7 @@ include:
   
 #homepage config
 logo: "/assets/images/dxdonewell.png"
+masthead_title: "Dx Done Well" 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
