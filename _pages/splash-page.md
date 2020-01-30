@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "DEVELOPER EXPERIENCE CONSULTING, API DOCUMENTATION, AND MORE"
 intro: 
-  - excerpt: 'You probably know you have 3 minutes or less of developers' attention to try out your API.  Are you looking to aggressively optimize your API conversion to trial numbers and get rid of any friction along the way to Hello World and First Meaningful API Interaction? Are you a SaaS company looking for a low-touch way to sell your API product trhough a developer portal? I'll help you improve your onboarding developer experience. '
+  - excerpt: "You probably know you have 3 minutes or less of developers' attention to try out your API.  Are you looking to aggressively optimize your API conversion to trial numbers and get rid of any friction along the way to Hello World and First Meaningful API Interaction? Are you a SaaS company looking for a low-touch way to sell your API product trhough a developer portal? I'll help you improve your onboarding developer experience. "
 feature_row:
   - image_path: assets/images/rocket.png
     alt: "placeholder image 1"
